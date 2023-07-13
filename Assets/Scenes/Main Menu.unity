@@ -775,7 +775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 784e3a8da1c24594fb182c5bad29bf71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelToLoad: Test Level
+  LevelToLoad: test2
 --- !u!1001 &5262255538820445883
 PrefabInstance:
   m_ObjectHideFlags: 0
